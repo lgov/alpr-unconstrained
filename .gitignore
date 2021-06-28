@@ -3,3 +3,6 @@
 *.so
 *.csv
 data/
+.DS_Store
+.idea
+venv/
